@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Filipi Inácio Penha.</h1>
 <h3 align="center">A passionate developer from Brazil.</h3>
 
-- 🔭 I’m currently working on [delivery swift](https://github.com/FilipiInacioGerminare/delivery_swift)
-- 🌱 I’m currently learning **JavaScript, TypeScript, React, and Spring Boot.**
+- 🌱 I’m currently learning **JavaScript, TypeScript, Angular, mobile flutter, and Spring Boot.**
 - 📫 How to reach me: **filipinacio25251120@gmail.com**
 - 📄 Know about my experiences: [GitHub Repositories](https://github.com/FilipiInacioGerminare?tab=repositories)
 - ⚡ Fun fact: **I look like Filipe Deschamps.**
